@@ -1,10 +1,3 @@
----
-title: 'Precipitation Dataset Comparison and Validity'
-date: 2018-05-16
-image: 'uploads/image1.png'
-tags: ["UCLA", 'R', 'validation', 'precipitation', 'remote sensing']
----
-
 Remote sensing offers spatially and temporally continuous measurements of hydrological fluxes like rainfall, evapotranspiration and soil moisture. These measurements provide valuable information in data-scarce catchments around the world. Nevertheless, owing to a variety of sensor and retrieval algorithms, remote sensing data is subject to large uncertainties and errors. Therefore, it is imperative that remote sensing datasets are rigorously validated using ground truth before such datasets are used for applications such as calibration of climate forecasts, hydrologic modeling and streamflow forecasting.
 
 As an example, we can compare and validate different remotely sensed precipitation datasets using ground-based measurements for a catchment in East Africa. The area of study being the Omo-Gibe river basin in Ethiopia, using a time period of at least 1 year.
